@@ -1,0 +1,24 @@
+{
+  "name": "royalefandomscraper",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dennis960/RoyaleFandomScraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dennis960/RoyaleFandomScraper/issues"
+  },
+  "homepage": "https://github.com/Dennis960/RoyaleFandomScraper#readme",
+  "devDependencies": {
+    "ts-node": "^10.8.1"
+  },
+  "dependencies": {
+    "wtf_wikipedia": "^10.0.1"
+  }
+}
